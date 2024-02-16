@@ -28,8 +28,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 
-**Developed By:** JANARTHANAN V K <br>
-**Register Number:** 212222230051
+**Developed By:** BAirav Skandan Loha <br>
+**Register Number:** 212221230010
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ Anaconda - Python 3.7
 import cv2
 image=cv2.imread('japan.jpg')
 image=cv2.resize(image,(1290,720))
-cv2.imshow('Janarthanan V K',image)
+cv2.imshow('Bairav Skandan Loha',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ``` 
