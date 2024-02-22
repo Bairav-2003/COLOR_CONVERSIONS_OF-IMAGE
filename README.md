@@ -27,8 +27,7 @@ Anaconda - Python 3.7
 
 ## Program:
 ```
-### Developed By: A K MOHAN RAJ 
-### Register Number: 212221230064
+
 ```
 <table>
   <tr>
