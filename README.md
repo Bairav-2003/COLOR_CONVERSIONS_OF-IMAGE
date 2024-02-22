@@ -26,8 +26,9 @@ Anaconda - Python 3.7
 ### Step10: Split and merge HSV Image
 
 ## Program:
-```
-
+```o
+Developed by : Bairav Skandan Loha
+Register no : 212221230010
 ```
 <table>
   <tr>
